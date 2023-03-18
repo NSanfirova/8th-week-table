@@ -1,0 +1,37 @@
+
+    .d-flex {
+      height: 120px;
+      font-size: 2rem;
+    }
+
+    .cardCustom {
+      min-height: 300px;
+      max-width: 80%;
+      justify-content: center;
+      background-color: rgb(187, 185, 185, 0.5);
+      margin-bottom: 30px;
+    }
+
+    .card-titleCustom {
+      color: black;
+      font-size: 3rem;
+    }
+
+    .card-textCustom {
+      color: black;
+      font-size: 1.5rem;
+
+    }
+
+    .row {
+     
+    }
+
+    .navbar {
+      height: 100px;
+    }
+
+    .footer-text {
+      font-family: roboto;
+      font-size: 1.5rem;
+    }
